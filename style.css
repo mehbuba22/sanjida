@@ -1,0 +1,24 @@
+.sadia{
+    color: blue;
+    font-size: 30px;
+}
+.blog{
+    background-color: skyblue;
+    border: 10px solid rgb(165, 152, 152);
+    border-radius: 30px;
+    margin: 40px;
+    padding: 40px;
+}
+.blog{
+    border: 1px solid blue;
+    width: 200px;
+    margin: 20px;
+    padding: 20px;
+}
+.blog1{
+    background: #fffff0;
+    border:1px solid purple;
+    width: 100px;
+    margin: 30px;
+    padding: 30px;
+}
